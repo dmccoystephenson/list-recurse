@@ -1,8 +1,7 @@
 # !/bin/bash
 # Recursively list all files in a directory.
 
-# yellow for directory
-# blue for file
+# ANSI color codes
 YELLOW='\033[1;33m'
 BLUE='\033[1;34m'
 NC='\033[0m' # No Color
